@@ -4,15 +4,15 @@ and commercial use under the CCA 3.0 license html5up.net/license. Credits to oth
 
 Credits:
 
-	Demo Images:
-		[Unsplash][1]
+Demo Images:
+	[Unsplash][1]
 
-	Icons:
-		[Font Awesome][http://fontawesome.io]
+Icons:
+	[Font Awesome][http://fontawesome.io]
 
-	Other:
-		[jQuery][http://jquery.com]
-		[Scrollex][http://github.com/ajlkn/jquery.scrollex]
-		[Responsive Tools][http://github.com/ajlkn/responsive-tools]
+Other:
+	[jQuery][http://jquery.com]
+	[Scrollex][http://github.com/ajlkn/jquery.scrollex]
+	[Responsive Tools][http://github.com/ajlkn/responsive-tools]
 
-		[1]: http://unsplash.com
+	[1]: http://unsplash.com
